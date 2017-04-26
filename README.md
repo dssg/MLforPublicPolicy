@@ -3,7 +3,7 @@ This is the repo for the Machine Learning for Public Policy class at the Univers
 * [Lectures](Lectures/)
 * [Assignments](Assignments/)
 * [Lab Notebooks](labs/)
-* [Readings]
+* [Readings](Readings/)
 * [Project Guidelines](Project/)
 * [Practical Tools and Tips]
 
