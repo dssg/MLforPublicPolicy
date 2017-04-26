@@ -1,6 +1,11 @@
-# MLforPublicPolicy
-
-This is the repo for the Machine Learning for Public Policy class at the University of Chicago. This will be used to post lab notebooks. Assignments and lectures are on chalk.
+# Machine Learning for Public Policy
+This is the repo for the Machine Learning for Public Policy class at the University of Chicago. It contains:
+* Lectures
+* Assignments
+* Lab Notebooks
+* Readings
+* Project Guidelines
+* Practical Tools and Tips
 
 ## Some useful resources for background and labs
 
