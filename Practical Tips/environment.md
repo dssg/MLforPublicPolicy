@@ -8,8 +8,8 @@ for that project in one place and isolate one project from another in case there
 file that someone else can run to recreate the environment and run your code. You can create a new environment by 
 running "_virtualenv nameofproject_". To go to in the environment and start working, you can run "_source nameofproject/bin/activate_".
 * **screen** or **tmux**: When you start working on a remote server, it's much nicer to first start a tmux or screen session to start long processes so you don't have to wait around for them to
-finish before going outside for a nap on the beach. tmux or screen sessions persist, your process continuesn even when you close 
+finish before going outside for a nap on the beach. tmux or screen sessions persist, your process continues even when you close 
 the window you logged in with from your local machine. you can also have different tmux or screen sessions for different projects you're working on.
-* **Running Jupyter notebooks remotely**:
+* **Running Jupyter notebooks remotely**: You can run a jupyter notebook on a remote server and connect to it from your local browser by using an ssh tunnel. See [link](https://yangcha.github.io/Jupyter-Notebook/) for more details.
 
 
