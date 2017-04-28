@@ -5,7 +5,7 @@ This is the repo for the Machine Learning for Public Policy class at the Univers
 * [Lab Notebooks](labs/)
 * [Readings](Readings/)
 * [Project Guidelines](Project/)
-* [Practical Tools and Tips]
+* [Practical Tools and Tips](Practical%20CTips/)
 
 You can also take a look at the [Syllabus](syllabus.pdf) as well as the [weekly schedule](schedule.pdf).
 
