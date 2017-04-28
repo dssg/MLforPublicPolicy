@@ -9,6 +9,10 @@ This is the repo for the Machine Learning for Public Policy class at the Univers
 
 You can also take a look at the [Syllabus](syllabus.pdf) as well as the [weekly schedule](schedule.pdf).
 
+## Schedule
+
+![](schedule.png?raw=true)
+
 ## Some useful resources for background and labs
 
 * [Unix Command line tutorial](https://github.com/dssg/hitchhikers-guide/tree/master/curriculum/command-line-tools)
