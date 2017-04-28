@@ -5,5 +5,5 @@
 * [Loading data in to databases](https://github.com/dssg/hitchhikers-guide/tree/master/curriculum/csv-to-db)
 * [Data Exploration Tips](Data%20Exploration.md)
 * Feature Generation Tips
-* Modeling Tips: What models to use, which hyperparemeters to try,...
+* Modeling Tips: [Magicloops](https://github.com/rayidghani/magicloops) - What models to use, which hyperparemeters to try,...
 * Evaluation Tips
