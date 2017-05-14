@@ -6,7 +6,7 @@ Instructor office hours:	Tuesday and Thursdays 2-3pm (or by appointment)
 
 Lectures:	Stuart 101, Tuesday and Thursday 10:30–11:50 am
 
-Teaching assistants:	Horace Pan, Samira Shekhi
+Teaching assistants:	Horace Pan, Samira Sheikhi
 
 TA office hours:	TBD
 
