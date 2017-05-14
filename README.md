@@ -1,8 +1,5 @@
 # Machine Learning for Public Policy
-
-Contact Information:
-Rayid Ghani
-Office: Searle 219
+[Rayid Ghani](http://www.rayidghani.com)
 
 This is the repository for the Machine Learning for Public Policy class at the University of Chicago. It contains:
 * [Lectures](Lectures/)
