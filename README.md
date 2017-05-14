@@ -11,7 +11,7 @@ You can also take a look at the [Syllabus](syllabus.pdf) as well as the [weekly 
 
 ## Schedule
 
-![](schedule.png?raw=true)
+![](schedule-updated.png?raw=true)
 
 ## Some useful resources for background and labs
 
