@@ -1,5 +1,10 @@
 # Machine Learning for Public Policy
-This is the repo for the Machine Learning for Public Policy class at the University of Chicago. It contains:
+
+Contact Information:
+Rayid Ghani
+Office: Searle 219
+
+This is the repository for the Machine Learning for Public Policy class at the University of Chicago. It contains:
 * [Lectures](Lectures/)
 * [Assignments](Assignments/)
 * [Lab Notebooks](labs/)
