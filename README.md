@@ -1,14 +1,9 @@
 # Machine Learning for Public Policy
 
-Instructor: [Rayid Ghani](http://www.rayidghani.com)
+The current version of this course is being offered in Spring 2018 at the University of Chicago.
 
-Instructor office hours:	Tuesday and Thursdays 2-3pm (or by appointment)
+[Rayid Ghani](http://www.rayidghani.com)
 
-Lectures:	Stuart 101, Tuesday and Thursday 10:30–11:50 am
-
-Teaching assistants:	Horace Pan, Samira Sheikhi
-
-TA office hours:	TBD
 
 #### Textbooks:
 There are two recommended textbooks:
