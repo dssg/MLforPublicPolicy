@@ -1,5 +1,5 @@
 # Setting up your work environment
-We're gonig to assume you're using some type of linux environment, and that you're conecting to a remote server from your local machine.
+We're going to assume you're using some type of linux environment, and that you're conecting to a remote server from your local machine.
 
 Some tips you'll find useful:
 * **SSH keys**: Set up an ssh key to log in. This will allow you to log in using a key instead of a password
