@@ -1,6 +1,6 @@
 # Machine Learning for Public Policy
 
-The current version of this course is being offered in Spring 2018 at the University of Chicago.
+The current version of this course is being offered in Spring 2019 at the University of Chicago.
 
 [Rayid Ghani](http://www.rayidghani.com)
 
@@ -22,7 +22,7 @@ You can also take a look at the [Syllabus](syllabus.pdf) as well as the [weekly 
 
 ## Schedule
 
-![](schedule-updated.png?raw=true)
+![](schedule.png?raw=true)
 
 ## Some useful resources for background and labs
 
