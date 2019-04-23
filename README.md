@@ -6,7 +6,7 @@ The current version of this course is being offered in Spring 2019 at the Univer
 
 
 #### Textbooks:
-There are two recommended textbooks:
+There is no book that covers this topic well. We will use two textbooks as recommended and augment through class lectures:
 1. Data Science for Business. Foster Provost and Tom Fawcett
 2. Machine Learning: The Art and Science of Algorithms that Make Sense of Data. Peter Flach
 
@@ -18,7 +18,7 @@ This is the repository for the Machine Learning for Public Policy class at the U
 * [Project Guidelines](Project/)
 * [Practical Tools and Tips](Practical%20CTips/)
 
-You can also take a look at the [Syllabus](syllabus.pdf) as well as the [weekly schedule](schedule.pdf).
+You can also take a look at the [Syllabus](syllabus.pdf) as well as the [weekly schedule](schedule.png?raw=true).
 
 ## Schedule
 
