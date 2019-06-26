@@ -26,8 +26,8 @@ You can also take a look at the [Syllabus](syllabus.pdf) as well as the [weekly 
 
 ## Some useful resources for background and labs
 
-* [Unix Command line tutorial](https://github.com/dssg/hitchhikers-guide/tree/master/curriculum/command-line-tools)
-* [Git and Github](https://github.com/dssg/hitchhikers-guide/tree/master/curriculum/git-and-github)
-* [Getting data from text files into a database](https://github.com/dssg/hitchhikers-guide/tree/master/curriculum/csv-to-db)
-* [Sample notebook for machine learning](https://github.com/dssg/hitchhikers-guide/blob/master/curriculum/machine-learning/machine_learning_clean.ipynb)
+* [Unix Command line tutorial](https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/1_getting_and_keeping_data/command-line-tools)
+* [Git and Github](https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/2_data_exploration_and_analysis/git-and-github)
+* [Getting data from text files into a database](https://dssg.github.io/hitchhikers-guide/curriculum/1_getting_and_keeping_data/csv-to-db/)
+* [Sample notebook for machine learning](https://github.com/dssg/hitchhikers-guide/blob/master/sources/curriculum/3_modeling_and_machine_learning/machine-learning/machine_learning_clean.ipynb)
 
